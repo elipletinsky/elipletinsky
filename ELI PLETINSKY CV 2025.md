@@ -73,6 +73,8 @@ Link to git repository for frontend [https://github.com/senpaiharde/berllo](http
 
  Link to git repository for backend [https://github.com/senpaiharde/berllo-backend](https://github.com/senpaiharde/berllo-backend)
 
+#### MCP Server (Node.js, TypeScript):
+ Link to git repository for MCP Server [https://github.com/elipletinsky/Brello-MCP](https://github.com/elipletinsky/Brello-MCP)
 ###### This project helped me gain hands-on experience with full-stack development, real-time data syncing, and building production-ready web apps with modern tools.
 
 #### **MEET MY PETS**
